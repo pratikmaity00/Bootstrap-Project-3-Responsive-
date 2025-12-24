@@ -149,6 +149,10 @@ span {
   color: white;
 }
 
+.customCard.text-center.text-lg-start {
+    margin: 0 auto;
+}
+
 /* loan */
 .loan {
   background-color: var(--greyLight);
